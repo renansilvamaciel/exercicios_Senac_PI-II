@@ -1,0 +1,17 @@
+br\senac\sp\lab8\utils\GerenciadorConexao.class
+br\senac\sp\lab8\view\TelaInicialView$2.class
+br\senac\sp\lab8\view\CadastrarCliente$1.class
+br\senac\sp\lab8\model\Cliente.class
+br\senac\sp\lab8\DAO\ClienteDAO.class
+br\senac\sp\lab8\view\ManterCliente$2.class
+br\senac\sp\lab8\view\CadastrarCliente$2.class
+br\senac\sp\lab8\view\ManterCliente.class
+br\senac\sp\lab8\view\TelaInicialView$3.class
+br\senac\sp\lab8\view\TelaInicialView$4.class
+br\senac\sp\lab8\view\ManterCliente$3.class
+br\senac\sp\lab8\view\TelaInicialView.class
+br\senac\sp\lab8\view\CadastrarCliente.class
+br\senac\sp\lab8\view\ManterCliente$4.class
+br\senac\sp\lab8\view\CadastrarCliente$3.class
+br\senac\sp\lab8\view\ManterCliente$1.class
+br\senac\sp\lab8\view\TelaInicialView$1.class
