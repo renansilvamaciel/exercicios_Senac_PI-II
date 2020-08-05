@@ -1,2 +1,2 @@
 # exercicios_Senac_PI-II
-exercícios do Projeto integrado do Senac Santo Amaro
+exercícios desenvolvidos em java dentro do Projeto integrador do Senac Santo Amaro
